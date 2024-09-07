@@ -1,0 +1,6 @@
+@WebApi_EcommerceReact_HostAddress = http://localhost:5226
+
+GET {{WebApi_EcommerceReact_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
